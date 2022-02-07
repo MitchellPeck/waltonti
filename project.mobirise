@@ -987,7 +987,7 @@
       "settings": {
         "title": "Dashboard",
         "order": 2,
-        "header_custom": "<script type=\"text/javascript\">document.body.style.visibility=\"hidden\";</script><div id=\"SFctr\" data-org=\"28442\" data-mfl=\"6201613baf6f2a41652009f6\"><div style=\"clear:both\"></div></div><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfl.js\"></script>",
+        "header_custom": "",
         "footer_custom": ""
       },
       "components": [
