@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Walton Technological Innovations",
-    "currentPage": "page4.html",
+    "currentPage": "logout.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1873,7 +1873,7 @@
         }
       ]
     },
-    "page4.html": {
+    "logout.html": {
       "settings": {
         "title": "Logout",
         "order": 4,
