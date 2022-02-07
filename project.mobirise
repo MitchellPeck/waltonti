@@ -517,8 +517,9 @@
       "settings": {
         "title": "Log In",
         "order": 1,
-        "header_custom": "",
-        "footer_custom": ""
+        "header_custom": "<div id=\"SFctr\" class=\"SF\" data-org=\"28442\" data-ini=\"myaccount\" data-zzz=\"https://www.waltonti.org/dashboard\" data-scl=\"0\" data-sfi=\"1\"><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>",
+        "footer_custom": "",
+        "html_before": ""
       },
       "components": [
         {
@@ -932,24 +933,6 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
-        },
-        {
-          "alias": "witsec-code-editor/components",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "witsec-html-block",
-          "_sourceTheme": "mobirise5",
-          "_customHTML": "<div id=\"SFctr\" class=\"SF\" data-org=\"28442\" data-ini=\"myaccount\" data-zzz=\"https://www.waltonti.org/dashboard\" data-scl=\"0\" data-sfi=\"1\">[JS_CODE_0]",
-          "_cid": "sWMvutSo5P",
-          "_anchor": "witsec-html-block-c",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>"
-          ],
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
           "_params": {}
         }
       ]
