@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Walton Technological Innovations",
-    "currentPage": "dashboard.html",
+    "currentPage": "login.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -541,7 +541,7 @@
         "title": "Log In",
         "order": 3,
         "header_custom": "",
-        "footer_custom": "<div id=\"SFctr\" class=\"SF\" data-org=\"28442\" data-ini=\"myaccount\" data-zzz=\"https://www.waltonti.org/dashboard\" data-scl=\"0\" data-sfi=\"1\"><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>",
+        "footer_custom": "<div id=\"SFctr\" class=\"SF\" data-org=\"28442\" data-ini=\"myaccount\" data-zzz=\"https://mitchellpeck.github.io/waltonti/dashboard\" data-scl=\"0\" data-sfi=\"1\"><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>",
         "html_before": ""
       },
       "components": [
