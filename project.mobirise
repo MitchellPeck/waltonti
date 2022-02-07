@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Walton Technological Innovations",
-    "currentPage": "dashboard.html",
+    "currentPage": "login.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -540,8 +540,8 @@
       "settings": {
         "title": "Log In",
         "order": 2,
-        "header_custom": "",
-        "footer_custom": "<div id=\"SFctr\" class=\"SF\" data-org=\"28442\" data-ini=\"myaccount\" data-zzz=\"https://www.waltonti.org/dashboard\" data-scl=\"0\" data-sfi=\"1\"><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>",
+        "header_custom": "<div id=\"SFctr\" class=\"SF\" data-org=\"28442\" data-ini=\"myaccount\" data-zzz=\"https://www.waltonti.org/dashboard\" data-scl=\"0\" data-sfi=\"1\"><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>",
+        "footer_custom": "",
         "html_before": ""
       },
       "components": [
@@ -987,8 +987,8 @@
       "settings": {
         "title": "Dashboard",
         "order": 1,
-        "header_custom": "",
-        "footer_custom": "<div id=\"SFctr\" class=\"SF\" data-org=\"28442\" data-ini=\"!calendar\" data-evg=\"0\" data-scl=\"0\" data-sfi=\"1\"><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>"
+        "header_custom": "<div id=\"SFctr\" class=\"SF\" data-org=\"28442\" data-ini=\"!calendar\" data-evg=\"0\" data-scl=\"0\" data-sfi=\"1\"><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>",
+        "footer_custom": ""
       },
       "components": [
         {
