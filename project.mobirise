@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Walton Technological Innovations",
-    "currentPage": "members.html",
+    "currentPage": "meetings.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -995,7 +995,8 @@
       "settings": {
         "title": "Meetings",
         "order": 4,
-        "footer_custom": "<div id=\"SFctr\" class=\"SF\" data-org=\"28442\" data-ini=\"!calendar\" data-scl=\"0\" data-sfi=\"1\"><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>"
+        "footer_custom": "<div id=\"SFctr\" class=\"SF\" data-org=\"28442\" data-ini=\"!calendar\" data-scl=\"0\" data-sfi=\"1\"><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>",
+        "header_custom": "<style>body{visibility:hidden}</style><meta id=\"SFctr\" data-org=\"28442\" data-mfl=\"6201613baf6f2a41652009f6,6201953b33315116b34665a2\" data-rll=\"https://mitchellpeck.github.io/waltonti/login\" data-rle=\"https://mitchellpeck.github.io/waltonti\" data-rlf=\"https://mitchellpeck.github.io/waltonti\" /><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfl.js\" defer></script>"
       },
       "components": [
         {
