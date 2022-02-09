@@ -2833,8 +2833,8 @@
       "settings": {
         "title": "Sign Up",
         "order": 1,
-        "footer_custom": "",
-        "header_custom": "<div id=\"SFctr\" class=\"SF\" data-org=\"28442\" data-ini=\"join\" data-scl=\"0\" data-sfi=\"1\"><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>"
+        "footer_custom": "<div id=\"SFctr\" class=\"SF\" data-org=\"28442\" data-ini=\"join\" data-scl=\"0\" data-sfi=\"1\"><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>",
+        "header_custom": ""
       },
       "components": [
         {
