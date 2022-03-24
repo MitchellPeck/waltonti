@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Walton Technological Innovations",
-    "currentPage": "index.html",
+    "currentPage": "signup.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -2921,7 +2921,7 @@
       "settings": {
         "title": "Sign Up",
         "order": 2,
-        "footer_custom": "<div id=\"SFctr\" class=\"SF\" data-org=\"28442\" data-ini=\"join\" data-scl=\"0\" data-sfi=\"1\"><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>",
+        "footer_custom": "<div id=\"SFctr\" class=\"SF\" data-org=\"28442\" data-ini=\"join\" data-lvl=\"620163b4d81cb76eac107eec\" data-scl=\"0\" data-sfi=\"1\"><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>",
         "header_custom": ""
       },
       "components": [
