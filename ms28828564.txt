@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "waltonti.tech",
+  "Id": "1c9d6d7f-dff8-4e55-b0e0-627f0d909bc8"
+}
